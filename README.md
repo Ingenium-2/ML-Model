@@ -1,3 +1,3 @@
-# Perceptron-Model
-A basic perceptron model to work on iris dataset
+Some Basic Models used in ML
+
 
