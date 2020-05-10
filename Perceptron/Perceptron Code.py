@@ -15,8 +15,6 @@ class Perceptron(object):
         """Fit training data.
         Parameters        ---------        X : {array-like}, shape = [n_samples, n_features]
         Training vectors, where n_samples             is the number of samples and
-Training Machine Learning Algorithms for Classification
-[ 26 ]
             n_features is the number of features.
             y : array-like, shape = [n_samples]            Target values.
         Returns        ------        self : object
